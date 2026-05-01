@@ -1,0 +1,17 @@
+#mySubmit {
+    text-align: center ;
+    border-radius: 5px;
+    background-color: rgb(180, 239, 255);
+    border: none;
+}
+#in1 {
+    border-radius: 5px;
+    background-color: rgb(230, 245, 255);
+    border: none;
+
+}
+body {
+    background-color: rgb(193, 203, 242);
+    font-family: RobotoMono;
+    src: url("fonts/RobotoMono.ttf")
+}
