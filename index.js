@@ -1,4 +1,4 @@
-;
+
 
 let username;
 const title = document.getElementById("title")
