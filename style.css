@@ -3,6 +3,7 @@
     border-radius: 5px;
     background-color: hsl(193, 100%, 85%);
     border: none;
+    padding: 5px;
 }
 #mySubmit:hover{
     background-color: hsl(190, 100%, 76%);
