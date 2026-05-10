@@ -3,7 +3,8 @@
     border-radius: 5px;
     background-color: hsl(193, 100%, 85%);
     border: none;
-    padding: 5px;
+    padding: 5%;
+    cursor: pointer;
 }
 #mySubmit:hover{
     background-color: hsl(190, 100%, 76%);
@@ -15,10 +16,10 @@
     border-radius: 5px;
     background-color: rgb(230, 245, 255);
     border: none;
-
+    padding: 5%;
 }
 body {
     background-color: rgb(193, 203, 242);
-    font-family: RobotoMono;
+    font-family: Roboto;
     src: url("fonts/RobotoMono.ttf")
 }
