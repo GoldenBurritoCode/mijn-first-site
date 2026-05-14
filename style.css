@@ -6,7 +6,7 @@
     padding: 0.2em;
     cursor: pointer;
     margin: 5px;
-    margin-left: 5%;
+    margin-left: 20%;
 }
 #mySubmit:hover{
     background-color: hsl(190, 100%, 76%);
